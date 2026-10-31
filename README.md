@@ -4,4 +4,7 @@
 - 🐶 Dog dad
 - ⚔️ Dota2 fan and player
 - 📚 Consumer of fantasy
-- 📫 How to reach me: srmacpherson96@gmail.com
+
+Currently building a mobile allergy app with a number of features including a bar code scanner to identify allergens (currently private repo).
+
+📫 How to reach me: srmacpherson96@gmail.com
